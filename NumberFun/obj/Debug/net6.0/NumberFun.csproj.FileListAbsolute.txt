@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\NumberFun\NumberFun\bin\Debug\net6.0\NumberFun.exe
+C:\Users\hp\source\repos\NumberFun\NumberFun\bin\Debug\net6.0\NumberFun.deps.json
+C:\Users\hp\source\repos\NumberFun\NumberFun\bin\Debug\net6.0\NumberFun.runtimeconfig.json
+C:\Users\hp\source\repos\NumberFun\NumberFun\bin\Debug\net6.0\NumberFun.dll
+C:\Users\hp\source\repos\NumberFun\NumberFun\bin\Debug\net6.0\NumberFun.pdb
+C:\Users\hp\source\repos\NumberFun\NumberFun\obj\Debug\net6.0\NumberFun.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\NumberFun\NumberFun\obj\Debug\net6.0\NumberFun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\NumberFun\NumberFun\obj\Debug\net6.0\NumberFun.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\NumberFun\NumberFun\obj\Debug\net6.0\NumberFun.AssemblyInfo.cs
+C:\Users\hp\source\repos\NumberFun\NumberFun\obj\Debug\net6.0\NumberFun.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\NumberFun\NumberFun\obj\Debug\net6.0\NumberFun.dll
+C:\Users\hp\source\repos\NumberFun\NumberFun\obj\Debug\net6.0\refint\NumberFun.dll
+C:\Users\hp\source\repos\NumberFun\NumberFun\obj\Debug\net6.0\NumberFun.pdb
+C:\Users\hp\source\repos\NumberFun\NumberFun\obj\Debug\net6.0\NumberFun.genruntimeconfig.cache
+C:\Users\hp\source\repos\NumberFun\NumberFun\obj\Debug\net6.0\ref\NumberFun.dll
